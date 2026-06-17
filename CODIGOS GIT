@@ -1,18 +1,18 @@
-Maria Jose@DESKTOP-J9CSAPD MINGW64 ~ (main)
+mjrr39sevilla@DESKTOP-J9CSAPD MINGW64 ~ (main)
 $ echo "# MyfirstHTML" >> README.md
 
-Maria Jose@DESKTOP-J9CSAPD MINGW64 ~ (main)
+mjrr39sevilla@DESKTOP-J9CSAPD MINGW64 ~ (main)
 $ git init
 Reinitialized existing Git repository in C:/Users/Maria Jose/.git/
 
-Maria Jose@DESKTOP-J9CSAPD MINGW64 ~ (main)
+mjrr39sevilla@DESKTOP-J9CSAPD MINGW64 ~ (main)
 $ git add README.md
 warning: in the working copy of 'README.md', LF will be replaced by CRLF the nex
 t time Git touches it
 
-Maria Jose@DESKTOP-J9CSAPD MINGW64 ~ (main)
+mjrr39sevilla@DESKTOP-J9CSAPD MINGW64 ~ (main)
 $ git commit -m "first commit"
 [main 87dc3b0] first commit
  1 file changed, 1 insertion(+)
 
-Maria Jose@DESKTOP-J9CSAPD MINGW64 ~ (main)
+mjrr39sevilla@DESKTOP-J9CSAPD MINGW64 ~ (main)
